@@ -32,7 +32,7 @@ We recommended following the IEEE style conference template for your pdf submiss
 A Frontiers in Robotics and AI special issue is being discussed on collection of the resulting papers from this workshop. While workshop contributors will be invited to submit extended versions of their workshop papers, general submissions will also be welcome.
 
 ### Workshop schedule: 
-The half/full-day inaugural workshop will include 2/3 potential speakers, oral/poster presentations of some representative papers submitted to this workshop and a panel discussion in the end to consolidate ideas on challenges and opportunities for social robots in developing countries. The workshop agenda will be updated shortly.
+The half day inaugural workshop will include 2/3 potential speakers, oral/poster presentations of some representative papers submitted to this workshop and a panel discussion in the end to consolidate ideas on challenges and opportunities for social robots in developing countries. The workshop agenda will be updated shortly.
 
 ### List of Confirmed Speakers:
 * Amit Kumar Pandey, Hanson Robotics, Hong Kong (Industry perspective)
