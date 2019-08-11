@@ -40,8 +40,15 @@ A Frontiers in Robotics and AI special issue is being discussed on collection of
 
 We invite attendees at RO-MAN conference to attend this workshop. We also plan to solicit the participation of people from relevant research fields working in this domain and intend to advertise this workshop call for participation through relevant social media channels and robotics mailing lists to gather interest. We will also invite relevant people to attend this workshop including potential stakeholders, researchers, and funders.
 
-### Organisers:
-Main Organiser:
+### Workshop schedule: 
+The half/full-day inaugural workshop will include 2/3 potential speakers, oral/poster presentations of some representative papers submitted to this workshop and a panel discussion in the end to consolidate ideas on challenges and opportunities for social robots in developing countries. The workshop agenda will be updated shortly.
+
+### List of Confirmed Speakers:
+* Amit Kumar Pandey, Hanson Robotics, Hong Kong (Industry perspective)
+* Akshay Nagarajan, Amrita University, Kerala, India (Rural perspective in India)
+* TBC
+
+### Main Organiser:
 ### Dr. Amol Deshmukh
 School of Computing Science,
 Sir Alwyn Williams Building, 
@@ -59,11 +66,3 @@ Bio: Akshay Nagarajan is an assistant professor of robotics at Amrita University
 
 ### Amit Kumar Pandey, Hanson Robotics, Hong Kong
 Bio: Dr. Amit Kumar Pandey is the Chief Technology Officer (CTO) and the Chief Science Officer (CSO) of Hanson Robotics. In the past he has served as the Head Principal Scientist (Chief Scientist) at SoftBank Robotics Europe (formerly Aldebaran Robotics), Paris, France, also serving as the scientific coordinator (R&D) of the collaborative projects of the company. Earlier for 6 years he worked as researcher in Robotics and AI at LAAS-CNRS (French National Center for Scientific Research), Toulouse, France. At LAAS-CNRS, he obtained his Ph.D. degree in Robotics (title: Towards Socially Intelligent Robots in Human Centered Environment), delivered by INSA (National Institutes of Applied Sciences), University of Toulouse. His PhD thesis is among the best three theses for the prestigious Georges Giralt Award for the best Ph.D. Theses in Robotics in Europe, awarded by European Union Robotics (euRobotics). With full fellowship, he obtained his MS by Research degree in Computer Science and Engineering with specialization in Robotics, in 2007 from IIIT-Hyderabad, India. He obtained his B.Tech. from JIIT, Noida, India. His research interest includes Socially Intelligent Robots and Societal Impact of robotics & AI technologies, Human Robot Interaction, Robot’s Cognitive Architecture & Learning. On these aspects, he has been actively contributing as principal investigator, researcher, and industrial scientific coordinator in more than 12 large scale national and European Union (EU) projects, as well as involved in their design and proposal, has published more than 60 scientific research papers and delivered more than 100 invited talks/keynotes/lecture in international venues. Among other responsibilities, he is the founding coordinator of Socially Intelligent Robots and Societal Applications (SIRo-SA) Topic Group (TG) of euRobotics (the European Union Robotics Community), and active contributor in the Multi-Annual Roadmap (MAR) and Strategic Research Agenda (SRA) of euRobotics, which aim to shape the future of robotics in Europe in collaboration with European Commission (EC) through PPP SPARC (one of the largest civilian-funded robotics innovation programme in the world). He is also the recipient of Pravashi Bihari Samman Puruskar 2014 (Non-Residential Bihari Honour Award), for Science, Technology and Education category, one of the highest level civilian honors, awarded by the state of Bihar, India.
-
-### Panel Members:
-* Amit Kumar Pandey, Hanson Robotics, Hong Kong (Industry perspective)
-* Akshay Nagarajan, Amrita University, Kerala, India (Rural perspective in India)
-* TBC
-
-### Workshop schedule: 
-The half/full-day inaugural workshop will include 2/3 potential speakers, oral/poster presentations of some representative papers submitted to this workshop and a panel discussion in the end to consolidate ideas on challenges and opportunities for social robots in developing countries. The workshop agenda will be updated shortly.
