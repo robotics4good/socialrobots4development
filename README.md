@@ -1,9 +1,4 @@
-### Description and Objectives
-The first workshop on this topic will include a series of contributing papers, invited talks, and a panel discussion. We will invite research work as short papers (4-page limit) for oral and/or poster presentation. Second, we will invite two-page abstracts/work-in-progress papers presenting ideas, applications that can demonstrate potential social robots and artificial agents impacting communities in developing countries. We believe the RO-MAN community provides an ideal platform for fostering and promoting the workshop topic as it is being held in India (a vastly developing nation) for the first time. We believe our workshop will also compliment the theme of the conference “Responsible Robotics and AI for the Real World”.
-
-The short papers would focus on ideally demonstrating a beneficial effect on populations in developing world using social robots/agents to foster sharing different points of view ranging from the scientific to practical challenges that may be encountered when they are deployed. The two-page abstracts could highlight ideas that have not yet been applied in practice but can demonstrate real potential. The workshop provides a platform for developing these two-page abstracts into real projects with a platform to connect with potential stakeholders, researchers, and funders. 
-
-The rapidly evolving field of social robotics has the potential to address many aspects of life in the developing world. However, it is very challenging to find the right platform to develop applications suited to cater to the needs of the developing world. Also, there are but a few conferences and events that explicitly deal with this topic. This inaugural workshop is an initiative to bring researchers together to network, present and discuss the challenges and opportunities in developing social robotic applications that can serve people and communities in the developing world. 
+### This half-day workshop will be held in conjunction with IEEE RO-MAN 2019, New Delhi, India, 14-18 October 2019.
 
 ### Call for Contributions
 This inaugural workshop "Social robots and artificial agents for developing countries: Challenges and opportunities" will focus on the application of social robots and artificial agents to serve populations in developing countries. While social robots are making way into our lives these are primarily focused to serve populations in developed countries. There is a lack of human-robot interaction research in developing countries which is nearly half of the population on the planet. Social robots potentially can make a huge impact in the developing world where they are a distinct novelty and our understanding about how robots are perceived by these subjects is very limited. The focus of this workshop is on the following areas but not limited to: rural/urban development, education, health, gender issues, agriculture, environmental sustainability, social welfare, and sustainable development. We believe that these fields are those where social robots and artificial agents can have an impact on society in the developing world. 
@@ -11,6 +6,16 @@ This inaugural workshop "Social robots and artificial agents for developing coun
 We invite research work as short papers (4-page limit, plus additional pages for references) for oral and/or poster presentation. We also invite two-page abstracts/work in progress papers presenting specific solutions that address the challenges and opportunities for social robots to serve developing countries. The short papers would focus on ideally demonstrating a beneficial effect on populations in the developing world using social robots/agents to present the scientific to practical challenges that may be encountered when they are deployed. The two-page abstracts could present ideas that have not yet been applied in practice but can demonstrate real potential. The workshop provides a platform for developing these two-page abstracts into real projects and encourages collaborative discussion between academic, researchers and potential funders.
 
 This inaugural workshop is an initiative to bring researchers together to network, present and discuss the challenges and opportunities in developing social robotic applications that can serve people and communities in the developing world. We also encourage to submit previously published work if relevant to the workshop topic. Panels will discuss lessons learned as well as highlight what can be done in the near future. All accepted papers will be published online on the workshop website.
+
+### List of relevant topics but not limited to:
+* Artificial/social agents for the developing world
+* Social Robots for rural populations
+* Robots addressing gender inequality, social injustice, healthcare awareness
+* Robots for agriculture, environmental protection, and sustainability 
+* Social robotics for waste management 
+* Socio-Cultural differences in user needs and expectations with robots
+* Cultural differences in user needs/expectations 
+* Case studies on empowering economically marginalized populations using robots
 
 ### Important dates
 
@@ -25,20 +30,6 @@ We recommended following the IEEE style conference template for your pdf submiss
 
 ### Special Issue
 A Frontiers in Robotics and AI special issue is being discussed on collection of the resulting papers from this workshop. While workshop contributors will be invited to submit extended versions of their workshop papers, general submissions will also be welcome.
-
-
-### List of relevant topics but not limited to:
-* Artificial/social agents for the developing world
-* Social Robots for rural populations
-* Robots addressing gender inequality, social injustice, healthcare awareness
-* Robots for agriculture, environmental protection, and sustainability 
-* Social robotics for waste management 
-* Socio-Cultural differences in user needs and expectations with robots
-* Cultural differences in user needs/expectations 
-* Case studies on empowering economically marginalized populations using robots
-* Intended Audience and Plans to Solicit Participation:
-
-We invite attendees at RO-MAN conference to attend this workshop. We also plan to solicit the participation of people from relevant research fields working in this domain and intend to advertise this workshop call for participation through relevant social media channels and robotics mailing lists to gather interest. We will also invite relevant people to attend this workshop including potential stakeholders, researchers, and funders.
 
 ### Workshop schedule: 
 The half/full-day inaugural workshop will include 2/3 potential speakers, oral/poster presentations of some representative papers submitted to this workshop and a panel discussion in the end to consolidate ideas on challenges and opportunities for social robots in developing countries. The workshop agenda will be updated shortly.
