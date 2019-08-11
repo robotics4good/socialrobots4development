@@ -28,21 +28,21 @@ A Frontiers in Robotics and AI special issue is being discussed on collection of
 
 
 ### List of relevant topics but not limited to:
-Artificial/social agents for the developing world
-Social Robots for rural populations
-Robots addressing gender inequality, social injustice, healthcare awareness
-Robots for agriculture, environmental protection, and sustainability 
-Social robotics for waste management 
-Socio-Cultural differences in user needs and expectations with robots
-Cultural differences in user needs/expectations 
-Case studies on empowering economically marginalized populations using robots
-Intended Audience and Plans to Solicit Participation:
+* Artificial/social agents for the developing world
+* Social Robots for rural populations
+* Robots addressing gender inequality, social injustice, healthcare awareness
+* Robots for agriculture, environmental protection, and sustainability 
+* Social robotics for waste management 
+* Socio-Cultural differences in user needs and expectations with robots
+* Cultural differences in user needs/expectations 
+* Case studies on empowering economically marginalized populations using robots
+* Intended Audience and Plans to Solicit Participation:
 
 We invite attendees at RO-MAN conference to attend this workshop. We also plan to solicit the participation of people from relevant research fields working in this domain and intend to advertise this workshop call for participation through relevant social media channels and robotics mailing lists to gather interest. We will also invite relevant people to attend this workshop including potential stakeholders, researchers, and funders.
 
 ### Organisers:
 Main Organiser:
-Dr. Amol Deshmukh,
+# Dr. Amol Deshmukh,
 School of Computing Science,
 Sir Alwyn Williams Building, 
 University Of Glasgow
@@ -51,19 +51,19 @@ Bio: Dr Amol Deshmukh is a social robotics researcher working with computing sci
 
 
 ### Co-Organisers:
-Laxmidhar Behera, Indian Institute of Technology Kanpur, India
+# Laxmidhar Behera, Indian Institute of Technology Kanpur, India
 Bio: Dr Laxmidhar Behera is working as Poonam and Prabhu Goel Chair Professor at IIT Kanpur having research and teaching experience of more than 24 years. He has received the BSc (engineering) and MSc (engineering) degrees from NIT Rourkela in 1988 and 1990, respectively. He received the PhD degree from IIT Delhi in 1996. He pursued the postdoctoral studies in the German National Research Center for Information Technology, GMD, Sank Augustin, Germany, during 2000-2001. Previously, he has worked as an assistant professor at BITS Pilani during 1995- 1999 and as a reader at Intelligent Systems Research Center (ISRC), University of Ulster, United Kingdom during 2007-2009. He has also worked as a visiting researcher/professor at FHG, Germany, and ETH, Zurich, Switzerland. His  research work lies in the convergence of machine learning, control theory, robotic vision and heterogeneous robotic platforms.  He has received more than INR 170 million research grants to support his research activities. He has established industrial collaboration with TCS, Renault Nissan, BEL, Bangalore and ADNOC, Abu Dhabi while making significant technological development in the areas such robotics based ware-house automation, vision and drone guided driver assistance system, and drone guided pipeline inspection systems. He has published more than 240 papers in Journals and Conference Proceedings. He has supervised 16 PhD thesis to completion. He is a Fellow of INAE and Senior Member of IEEE. His other research interests include intelligent control, semantic signal/music processing, neural networks, control of cyber-physical systems and cognitive modelling.
 
-2) Akshay Nagarajan, Amrita University, Kerala, India
+# Akshay Nagarajan, Amrita University, Kerala, India
 Bio: Akshay Nagarajan is an assistant professor of robotics at Amrita University in India and the technical lead for maker education research at Ammachi labs, Amrita University. A large share of his work has been in devising methods for human motor skill development using haptic interfaces when he led the technology-enhanced learning and haptic simulators R&D team at Ammachi Labs since its inception in 2009. He area of expertise include measuring skills and designing robotic and haptic mechanisms that can facilitate human motor skill training in the context of vocational education, neurosurgery, and physical rehabilitation. He has worked with leading robotics labs at Stanford University and the University of Michigan, extending collaboration for Ammachi Labs with these centers in robotics and haptic technologies. He has also collaboratively conducted UI/UX and HRI studies with low-literacy users to inform the development of inclusive user interfaces and measure technology acceptance in these communities that has garnered widespread interest and received BBC coverage. Akshay is passionate about teaching children hands-on maker skills and design and has co-founded the 2nd Foundation Makerspace at Amrita University, conducts maker skills workshops in schools and remote villages across the country and has set up several makerspaces in schools serving rural and tribal communities. He was awarded the Fablearn Global Excellence Practioner Award by the Stanford Graduate School of Education in 2018 in recognition of his efforts in maker education research and for extending outreach, connecting communities and bringing equity to education in rural India. His present research drives his interest to understand the neurocognitive mechanisms that inform motor learning and collaborative task performance and to apply that knowledge to construct strategies to advance the human capacity in motor skill training and develop better learning environments.
 
-3)  Amit Kumar Pandey, Hanson Robotics, Hong Kong
+# Amit Kumar Pandey, Hanson Robotics, Hong Kong
 Bio: Dr. Amit Kumar Pandey is the Chief Technology Officer (CTO) and the Chief Science Officer (CSO) of Hanson Robotics. In the past he has served as the Head Principal Scientist (Chief Scientist) at SoftBank Robotics Europe (formerly Aldebaran Robotics), Paris, France, also serving as the scientific coordinator (R&D) of the collaborative projects of the company. Earlier for 6 years he worked as researcher in Robotics and AI at LAAS-CNRS (French National Center for Scientific Research), Toulouse, France. At LAAS-CNRS, he obtained his Ph.D. degree in Robotics (title: Towards Socially Intelligent Robots in Human Centered Environment), delivered by INSA (National Institutes of Applied Sciences), University of Toulouse. His PhD thesis is among the best three theses for the prestigious Georges Giralt Award for the best Ph.D. Theses in Robotics in Europe, awarded by European Union Robotics (euRobotics). With full fellowship, he obtained his MS by Research degree in Computer Science and Engineering with specialization in Robotics, in 2007 from IIIT-Hyderabad, India. He obtained his B.Tech. from JIIT, Noida, India. His research interest includes Socially Intelligent Robots and Societal Impact of robotics & AI technologies, Human Robot Interaction, Robot’s Cognitive Architecture & Learning. On these aspects, he has been actively contributing as principal investigator, researcher, and industrial scientific coordinator in more than 12 large scale national and European Union (EU) projects, as well as involved in their design and proposal, has published more than 60 scientific research papers and delivered more than 100 invited talks/keynotes/lecture in international venues. Among other responsibilities, he is the founding coordinator of Socially Intelligent Robots and Societal Applications (SIRo-SA) Topic Group (TG) of euRobotics (the European Union Robotics Community), and active contributor in the Multi-Annual Roadmap (MAR) and Strategic Research Agenda (SRA) of euRobotics, which aim to shape the future of robotics in Europe in collaboration with European Commission (EC) through PPP SPARC (one of the largest civilian-funded robotics innovation programme in the world). He is also the recipient of Pravashi Bihari Samman Puruskar 2014 (Non-Residential Bihari Honour Award), for Science, Technology and Education category, one of the highest level civilian honors, awarded by the state of Bihar, India.
 
 ### Panel Members:
-Amit Kumar Pandey, Hanson Robotics, Hong Kong (Industry perspective)
-Akshay Nagarajan, Amrita University, Kerala, India (Rural perspective in India)
-TBC
+* Amit Kumar Pandey, Hanson Robotics, Hong Kong (Industry perspective)
+* Akshay Nagarajan, Amrita University, Kerala, India (Rural perspective in India)
+* TBC
 
 ### Workshop schedule: 
 The half/full-day inaugural workshop will include 2/3 potential speakers, oral/poster presentations of some representative papers submitted to this workshop and a panel discussion in the end to consolidate ideas on challenges and opportunities for social robots in developing countries. The workshop agenda will be updated shortly.
