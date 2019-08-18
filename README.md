@@ -1,4 +1,4 @@
-### This half-day workshop will be held in conjunction with IEEE RO-MAN 2019, New Delhi, India, 14-18 October 2019.
+### This half-day workshop will be held in conjunction with IEEE RO-MAN 2019 [https://ro-man2019.org/], New Delhi, India, 14-18 October 2019.
 
 ### Call for Contributions
 This inaugural workshop "Social robots and artificial agents for developing countries: Challenges and opportunities" will focus on the application of social robots and artificial agents to serve populations in developing countries. While social robots are making way into our lives these are primarily focused to serve populations in developed countries. There is a lack of human-robot interaction research in developing countries which is nearly half of the population on the planet. Social robots potentially can make a huge impact in the developing world where they are a distinct novelty and our understanding about how robots are perceived by these subjects is very limited. The focus of this workshop is on the following areas but not limited to: rural/urban development, education, health, gender issues, agriculture, environmental sustainability, social welfare, and sustainable development. We believe that these fields are those where social robots and artificial agents can have an impact on society in the developing world. 
@@ -41,8 +41,6 @@ The half day inaugural workshop will include 2/3 potential speakers, oral/poster
 
 ### Main Organiser:
 ### Dr. Amol Deshmukh
-School of Computing Science,
-Sir Alwyn Williams Building, 
 University Of Glasgow
 
 Bio: Dr Amol Deshmukh is a social robotics researcher working with computing science department at University of Glasgow. He is a Roboticist and built his first social robot during his Bachelor's in Electronics. He completed his Ph.D from Heriot-watt University in Edinburgh in human-robot interaction. Dr Deshmukh has worked on multiple European Union projects involving social robots in workplaces, child-robot interaction, public spaces, rural environments and has more than 40 publications. His current research involves social signal processing for social robots in public spaces for an EU-funded project MuMMER. He has also been involved conducting human-robot interaction studies with rural populations in India with a focus to learn the challenges to deploy robots in potentially useful scenarios to aid rural populations in developing countries “in the wild” and how people perceive the use of such technology.
