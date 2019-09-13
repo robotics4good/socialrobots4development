@@ -19,9 +19,9 @@ This inaugural workshop is an initiative to bring researchers together to networ
 
 ### Important dates
 
-  * Submission Deadline: 22nd September 2019
-  * Notification of Acceptance: 27th September 2019
-  * Camera ready submission: 5th October 2018
+  * Submission Deadline: 20th September 2019 (Extended)
+  * Notification of Acceptance: 25th September 2019
+  * Camera ready submission: 1st October 2018
   * Workshop: 17th October, 8.30am-1.00pm
 
 Please submit your submissions in pdf format to: amol.deshmukh@glasgow.ac.uk with subject: "RO-MAN Workshop SRDC Submission" by 22nd September (23.59 PST).
