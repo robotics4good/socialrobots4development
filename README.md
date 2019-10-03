@@ -1,4 +1,4 @@
-### This half-day workshop will be held in conjunction with IEEE [RO-MAN 2019](https://ro-man2019.org/), New Delhi, India, 17th October 2019 (8.30am- 13.00pm).
+### This half-day workshop will be held in conjunction with IEEE [RO-MAN 2019](https://ro-man2019.org/) on 17th October 2019 (9am- 13.00pm), Le Meridien, Windsor Place, New Delhi, India.
 
 ### Call for Contributions
 This inaugural workshop "Social robots and artificial agents for developing countries: Challenges and opportunities" will focus on the application of social robots and artificial agents to serve populations in developing countries. While social robots are making way into our lives these are primarily focused to serve populations in developed countries. There is a lack of human-robot interaction research in developing countries which is nearly half of the population on the planet. Social robots potentially can make a huge impact in the developing world where they are a distinct novelty and our understanding about how robots are perceived by these subjects is very limited. The focus of this workshop is on the following areas but not limited to: rural/urban development, education, health, gender issues, agriculture, environmental sustainability, social welfare, and sustainable development. We believe that these fields are those where social robots and artificial agents can have an impact on society in the developing world. 
@@ -22,7 +22,7 @@ This inaugural workshop is an initiative to bring researchers together to networ
   * Submission Deadline: 20th September 2019 (Extended)
   * Notification of Acceptance: 25th September 2019
   * Camera ready submission: 1st October 2018
-  * Workshop: 17th October, 8.30am- 13.00pm
+  * Workshop: 17th October, 9am- 13.00pm
 
 Please submit your submissions in pdf format to: amol.deshmukh@glasgow.ac.uk with subject: "RO-MAN Workshop SRDC Submission" by 22nd September (23.59 PST).
 
@@ -31,9 +31,17 @@ We recommended following the IEEE style conference template for your pdf submiss
 ### Special Issue
 A Frontiers in Robotics and AI special issue is being discussed on collection of the resulting papers from this workshop. While workshop contributors will be invited to submit extended versions of their workshop papers, general submissions will also be welcome.
 
-### Workshop schedule: 
-The half day inaugural workshop will include 2/3 potential speakers, oral/poster presentations of some representative papers submitted to this workshop and a panel discussion in the end to consolidate ideas on challenges and opportunities for social robots in developing countries. The workshop agenda will be updated shortly.
-
+### Workshop schedule: (Room R3 (Inspire), Le Meridien, Windsor Place, New Delhi, India.)
+ * 8.30am - 9.00am: Introduction and Opening, Dr Amol Deshmukh
+ * 9.00am - 9.30am: Invited Speaker Talk
+ * 9.30am - 10.00am: Invited Speaker Talk
+ * 10.00am - 10.30am: Invited Speaker Talk
+ * 10.30am - 11.00am: Coffee Break
+ * 11.00am - 11.30am: Invited Speaker Talk
+ * 11.30am - 12.00pm: Invited Speaker Talk
+ * 12.00pm - 12.45pm: Panel discussion with all invited speakers, Open Q&A
+ * 12.45pm - 1.00pm: Closing
+ 
 ### List of Confirmed Speakers:
 * Amit Kumar Pandey, Hanson Robotics, Hong Kong (Industry perspective)
 * Akshay Nagarajan, Amrita University, Kerala, India (Rural perspective in India)
