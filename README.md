@@ -1,11 +1,11 @@
-### This half-day workshop will be held in conjunction with IEEE [RO-MAN 2019](https://ro-man2019.org/) on 17th October 2019 (8.30am- 13.00pm), Le Meridien, Windsor Place, New Delhi, India.
+### This half-day workshop will be held in conjunction with IEEE [RO-MAN 2019](https://ro-man2019.org/) on 17th October 2019 (8.30am- 13.00pm), Room R3 "Inspire", Le Meridien, Windsor Place, New Delhi, India.
 
 ### Call for Contributions
 This inaugural workshop "Social robots and artificial agents for developing countries: Challenges and opportunities" will focus on the application of social robots and artificial agents to serve populations in developing countries. While social robots are making way into our lives these are primarily focused to serve populations in developed countries. There is a lack of human-robot interaction research in developing countries which is nearly half of the population on the planet. Social robots potentially can make a huge impact in the developing world where they are a distinct novelty and our understanding about how robots are perceived by these subjects is very limited. The focus of this workshop is on the following areas but not limited to: rural/urban development, education, health, gender issues, agriculture, environmental sustainability, social welfare, and sustainable development. We believe that these fields are those where social robots and artificial agents can have an impact on society in the developing world. 
 
 This inaugural workshop is an initiative to bring researchers together to network, present and discuss the challenges and opportunities in developing social robotic applications that can serve people and communities in the developing world. We also encourage to submit previously published work if relevant to the workshop topic. Panels will discuss lessons learned as well as highlight what can be done in the near future. All accepted papers will be made available online on the workshop website and the authors will retain the copyright of their paper and to allow submitting the work as an improved full paper in other venues.
 
-### Workshop schedule: (Room R3 (Inspire), Le Meridien, Windsor Place, New Delhi, India.)
+### Workshop schedule: (Room R3 "Inspire", Le Meridien, Windsor Place, New Delhi, India.)
  * 8.30am - 9.00am: Introduction and Opening, Dr Amol Deshmukh
  * 9.00am - 9.30am: Invited Speaker Talk
  * 9.30am - 10.00am: Invited Speaker Talk
