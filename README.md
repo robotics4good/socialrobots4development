@@ -3,9 +3,26 @@
 ### Call for Contributions
 This inaugural workshop "Social robots and artificial agents for developing countries: Challenges and opportunities" will focus on the application of social robots and artificial agents to serve populations in developing countries. While social robots are making way into our lives these are primarily focused to serve populations in developed countries. There is a lack of human-robot interaction research in developing countries which is nearly half of the population on the planet. Social robots potentially can make a huge impact in the developing world where they are a distinct novelty and our understanding about how robots are perceived by these subjects is very limited. The focus of this workshop is on the following areas but not limited to: rural/urban development, education, health, gender issues, agriculture, environmental sustainability, social welfare, and sustainable development. We believe that these fields are those where social robots and artificial agents can have an impact on society in the developing world. 
 
+This inaugural workshop is an initiative to bring researchers together to network, present and discuss the challenges and opportunities in developing social robotic applications that can serve people and communities in the developing world. We also encourage to submit previously published work if relevant to the workshop topic. Panels will discuss lessons learned as well as highlight what can be done in the near future. All accepted papers will be made available online on the workshop website and the authors will retain the copyright of their paper and to allow submitting the work as an improved full paper in other venues.
+
+### Workshop schedule: (Room R3 (Inspire), Le Meridien, Windsor Place, New Delhi, India.)
+ * 8.30am - 9.00am: Introduction and Opening, Dr Amol Deshmukh
+ * 9.00am - 9.30am: Invited Speaker Talk
+ * 9.30am - 10.00am: Invited Speaker Talk
+ * 10.00am - 10.30am: Invited Speaker Talk
+ * 10.30am - 11.00am: Coffee Break
+ * 11.00am - 11.30am: Invited Speaker Talk
+ * 11.30am - 12.00pm: Invited Speaker Talk
+ * 12.00pm - 12.45pm: Panel discussion with all invited speakers, Open Q&A
+ * 12.45pm - 1.00pm: Closing
+ 
+### List of Confirmed Speakers:
+* Amit Kumar Pandey, Hanson Robotics, Hong Kong (Industry perspective)
+* Akshay Nagarajan, Amrita University, Kerala, India (Rural perspective in India)
+* Prof. Subir Kumar Saha (Robotics2Rural: Innovative Teaching and Research Approaches)
+
 We invite research work as short papers (4-page limit, plus additional pages for references) for oral and/or poster presentation. We also invite two-page abstracts/work in progress papers presenting specific solutions that address the challenges and opportunities for social robots to serve developing countries. The short papers would focus on ideally demonstrating a beneficial effect on populations in the developing world using social robots/agents to present the scientific to practical challenges that may be encountered when they are deployed. The two-page abstracts could present ideas that have not yet been applied in practice but can demonstrate real potential. The workshop provides a platform for developing these two-page abstracts into real projects and encourages collaborative discussion between academic, researchers and potential funders.
 
-This inaugural workshop is an initiative to bring researchers together to network, present and discuss the challenges and opportunities in developing social robotic applications that can serve people and communities in the developing world. We also encourage to submit previously published work if relevant to the workshop topic. Panels will discuss lessons learned as well as highlight what can be done in the near future. All accepted papers will be made available online on the workshop website and the authors will retain the copyright of their paper and to allow submitting the work as an improved full paper in other venues.
 
 ### List of relevant topics but not limited to:
 * Artificial/social agents for the developing world
@@ -31,21 +48,6 @@ We recommended following the IEEE style conference template for your pdf submiss
 ### Special Issue
 A Frontiers in Robotics and AI special issue is being discussed on collection of the resulting papers from this workshop. While workshop contributors will be invited to submit extended versions of their workshop papers, general submissions will also be welcome.
 
-### Workshop schedule: (Room R3 (Inspire), Le Meridien, Windsor Place, New Delhi, India.)
- * 8.30am - 9.00am: Introduction and Opening, Dr Amol Deshmukh
- * 9.00am - 9.30am: Invited Speaker Talk
- * 9.30am - 10.00am: Invited Speaker Talk
- * 10.00am - 10.30am: Invited Speaker Talk
- * 10.30am - 11.00am: Coffee Break
- * 11.00am - 11.30am: Invited Speaker Talk
- * 11.30am - 12.00pm: Invited Speaker Talk
- * 12.00pm - 12.45pm: Panel discussion with all invited speakers, Open Q&A
- * 12.45pm - 1.00pm: Closing
- 
-### List of Confirmed Speakers:
-* Amit Kumar Pandey, Hanson Robotics, Hong Kong (Industry perspective)
-* Akshay Nagarajan, Amrita University, Kerala, India (Rural perspective in India)
-* TBC
 
 ### Main Organiser:
 ### Dr. Amol Deshmukh
