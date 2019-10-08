@@ -8,9 +8,9 @@
 This inaugural workshop "Social robots and artificial agents for developing countries: Challenges and opportunities" will focus on the application of social robots and artificial agents to serve populations in developing countries. While social robots are making way into our lives these are primarily focused to serve populations in developed countries. There is a lack of human-robot interaction research in developing countries which is nearly half of the population on the planet. Social robots potentially can make a huge impact in the developing world where they are a distinct novelty and our understanding about how robots are perceived by these subjects is very limited. The focus of this workshop is on the following areas but not limited to: rural/urban development, education, health, gender issues, agriculture, environmental sustainability, social welfare, and sustainable development. We believe that these fields are those where social robots and artificial agents can have an impact on society in the developing world. This inaugural workshop is an initiative to bring researchers together to network, present and discuss the challenges and opportunities in developing social robotic applications that can serve people and communities in the developing world. 
 
 ### Workshop schedule: (Room R3 "Inspire", Le Meridien, Windsor Place, New Delhi, India.)
- * 8.30am - 9.00am: Opening & Introduction, Dr Amol Deshmukh, University of Glasgow, UK.
- * 9.00am - 9.30am: Unnikrishnan Radhakrishnan, Amrita University, Kerala, India "Social robots with Rural populations in India"
- * 9.30am - 10.00am: Prof. Subir Kumar Saha, IIT Delhi, "Robotics2Rural: Innovative Teaching and Research Approaches"
+ * 8.30am - 8.45am: Opening & Introduction, Dr Amol Deshmukh, University of Glasgow, UK.
+ * 8.45am - 9.15am: Unnikrishnan Radhakrishnan, Amrita University, Kerala, India "Social robots with Rural populations in India"
+ * 9.15am - 10.00am: Prof. Subir Kumar Saha, IIT Delhi, "Robotics2Rural: Innovative Teaching and Research Approaches"
  * 10.00am - 10.30am: Mr. Ganga Kumar, Grameen Sneh Foundation, Director, Govt of India, Delhi, "Robotics in healthcare development - a necessity for future perspective"
  * 10.30am - 11.00am: Coffee Break & Networking
  * 11.00am - 11.30am: Amit Kumar Pandey, Hanson Robotics, Hong Kong (Industry perspective)
