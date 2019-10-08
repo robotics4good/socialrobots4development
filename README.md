@@ -10,7 +10,7 @@ This inaugural workshop "Social robots and artificial agents for developing coun
  * 10.00am - 10.30am: Mr. Ganga Kumar, Grameen Sneh Foundation, Director, Govt of India, Delhi.
  * 10.30am - 11.00am: Coffee Break & Networking
  * 11.00am - 11.30am: Amit Kumar Pandey, Hanson Robotics, Hong Kong (Industry perspective)
- * 11.30am - 12.00pm: Mohammad Shidujaman, "Emerging social challenges in Bangladesh & how social robotics can play an innovative role"
+ * 11.30am - 12.00pm: Mohammad Shidujaman, Board of Executive Committee of Bangladesh Robotics Foundation, "Emerging social challenges in Bangladesh & how social robotics can play an innovative role"
  * 12.00pm - 12.45pm: Panel discussion with all invited speakers, Open Q&A
  * 12.45pm - 1.00pm: Closing
 
