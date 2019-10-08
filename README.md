@@ -39,7 +39,7 @@ This inaugural workshop "Social robots and artificial agents for developing coun
   <tr>
     <td class="tg-mcqj">9.15 - 10.00</td>
     <td class="tg-73oq">Prof. Subir Kumar Saha, IIT Delhi, India</td>
-    <td class="tg-73oq">Robotics2Rural: Innovative Teaching and Research<br>Approaches</td>
+    <td class="tg-73oq">Robotics2Rural: Innovative Teaching and Research Approaches</td>
   </tr>
   <tr>
     <td class="tg-mcqj">10.00 - 10.30</td>
