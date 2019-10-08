@@ -17,6 +17,64 @@ This inaugural workshop "Social robots and artificial agents for developing coun
  * 11.30am - 12.00pm: Mohammad Shidujaman, Board of Executive Committee of Bangladesh Robotics Foundation, "Emerging social challenges in Bangladesh & how social robotics can play an innovative role"
  * 12.00pm - 12.45pm: Panel discussion with all invited speakers, Open Q&A
  * 12.45pm - 1.00pm: Closing
+ 
+ <style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-mcqj{font-weight:bold;border-color:#000000;text-align:left;vertical-align:top}
+.tg .tg-73oq{border-color:#000000;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-mcqj">Time</th>
+    <th class="tg-mcqj">Speaker</th>
+    <th class="tg-mcqj">Talk</th>
+  </tr>
+  <tr>
+    <td class="tg-73oq">8.30am - 8.45am</td>
+    <td class="tg-73oq">Dr Amol Deshmukh, University of Glasgow, UK</td>
+    <td class="tg-73oq">Opening &amp; Introduction</td>
+  </tr>
+  <tr>
+    <td class="tg-73oq">8.45am - 9.15am</td>
+    <td class="tg-73oq">Unnikrishnan Radhakrishnan, Amrita University,<br>Kerala, India</td>
+    <td class="tg-73oq">Social robots with Rural populations in India</td>
+  </tr>
+  <tr>
+    <td class="tg-73oq">9.15am - 10.00am</td>
+    <td class="tg-73oq">Prof. Subir Kumar Saha, IIT Delhi, India</td>
+    <td class="tg-73oq">Robotics2Rural: Innovative Teaching and Research<br>Approaches</td>
+  </tr>
+  <tr>
+    <td class="tg-73oq">10.00am - 10.30am</td>
+    <td class="tg-73oq">Mr. Ganga Kumar, Grameen Sneh Foundation,<br>Director, Govt of India, Delhi</td>
+    <td class="tg-73oq">Robotics in healthcare development - a necessity<br>for future perspective</td>
+  </tr>
+  <tr>
+    <td class="tg-73oq">10.30am - 11.00am</td>
+    <td class="tg-73oq" colspan="2">Coffee Break &amp; Networking</td>
+  </tr>
+  <tr>
+    <td class="tg-73oq">11.00am - 11.30am</td>
+    <td class="tg-73oq">Dr Amit Kumar Pandey, Hanson Robotics, Hong Kong</td>
+    <td class="tg-73oq">Industry perspective</td>
+  </tr>
+  <tr>
+    <td class="tg-73oq">11.30am - 12.00pm</td>
+    <td class="tg-73oq">Mohammad Shidujaman, Board of Executive<br>Committee of Bangladesh Robotics Foundation</td>
+    <td class="tg-73oq">Emerging social challenges in Bangladesh &amp;<br>how social robotics can play an innovative role</td>
+  </tr>
+  <tr>
+    <td class="tg-73oq">12.00pm - 12.55pm</td>
+    <td class="tg-73oq">Panel discussion with all invited speakers</td>
+    <td class="tg-73oq">Open Q&amp;A</td>
+  </tr>
+  <tr>
+    <td class="tg-73oq">12.55pm - 1.00pm</td>
+    <td class="tg-73oq" colspan="2">Closing</td>
+  </tr>
+</table>
 
 
 ### Call for Papers:
