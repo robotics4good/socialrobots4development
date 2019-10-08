@@ -8,14 +8,19 @@
 This inaugural workshop "Social robots and artificial agents for developing countries: Challenges and opportunities" will focus on the application of social robots and artificial agents to serve populations in developing countries. While social robots are making way into our lives these are primarily focused to serve populations in developed countries. There is a lack of human-robot interaction research in developing countries which is nearly half of the population on the planet. Social robots potentially can make a huge impact in the developing world where they are a distinct novelty and our understanding about how robots are perceived by these subjects is very limited. The focus of this workshop is on the following areas but not limited to: rural/urban development, education, health, gender issues, agriculture, environmental sustainability, social welfare, and sustainable development. We believe that these fields are those where social robots and artificial agents can have an impact on society in the developing world. This inaugural workshop is an initiative to bring researchers together to network, present and discuss the challenges and opportunities in developing social robotic applications that can serve people and communities in the developing world. 
 
 ### Workshop schedule: (Room R3 "Inspire", Le Meridien, Windsor Place, New Delhi, India.)
- <style type="text/css">
+<style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
 .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
 .tg .tg-mcqj{font-weight:bold;border-color:#000000;text-align:left;vertical-align:top}
 .tg .tg-73oq{border-color:#000000;text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+<table class="tg" style="undefined;table-layout: fixed; width: 771px">
+<colgroup>
+<col style="width: 110px">
+<col style="width: 353px">
+<col style="width: 308px">
+</colgroup>
   <tr>
     <th class="tg-mcqj">Time</th>
     <th class="tg-mcqj">Speaker</th>
@@ -38,7 +43,7 @@ This inaugural workshop "Social robots and artificial agents for developing coun
   </tr>
   <tr>
     <td class="tg-mcqj">10.00 - 10.30</td>
-    <td class="tg-73oq">Mr. Ganga Kumar, Grameen Sneh Foundation, Director, Govt of India, Delhi</td>
+    <td class="tg-73oq">Mr. Ganga Kumar, Grameen Sneh Foundation,<br>Director, Govt of India, Delhi</td>
     <td class="tg-73oq">Robotics in healthcare development - <br>a necessity for future perspective</td>
   </tr>
   <tr>
@@ -52,7 +57,7 @@ This inaugural workshop "Social robots and artificial agents for developing coun
   </tr>
   <tr>
     <td class="tg-mcqj">11.30 - 12.00</td>
-    <td class="tg-73oq">Mohammad Shidujaman, Board of Executive Committee of Bangladesh Robotics Foundation</td>
+    <td class="tg-73oq">Mohammad Shidujaman, Board of Executive<br>Committee of Bangladesh Robotics Foundation</td>
     <td class="tg-73oq">Emerging social challenges in Bangladesh and<br>how social robotics can play an innovative role</td>
   </tr>
   <tr>
@@ -66,7 +71,6 @@ This inaugural workshop "Social robots and artificial agents for developing coun
     <td class="tg-73oq"></td>
   </tr>
 </table>
-
 ### Call for Papers:
 We also encourage to submit previously published work if relevant to the workshop topic. Panels will discuss lessons learned as well as highlight what can be done in the near future. All accepted papers will be made available online on the workshop website and the authors will retain the copyright of their paper and to allow submitting the work as an improved full paper in other venues. We invite research work as short papers (4-page limit, plus additional pages for references) for oral and/or poster presentation. We also invite two-page abstracts/work in progress papers presenting specific solutions that address the challenges and opportunities for social robots to serve developing countries. The short papers would focus on ideally demonstrating a beneficial effect on populations in the developing world using social robots/agents to present the scientific to practical challenges that may be encountered when they are deployed. The two-page abstracts could present ideas that have not yet been applied in practice but can demonstrate real potential. The workshop provides a platform for developing these two-page abstracts into real projects and encourages collaborative discussion between academic, researchers and potential funders.
 
