@@ -43,7 +43,7 @@ This inaugural workshop "Social robots and artificial agents for developing coun
   </tr>
   <tr>
     <td class="tg-mcqj">10.00 - 10.30</td>
-    <td class="tg-73oq">Mr. Ganga Kumar, Grameen Sneh Foundation,<br>Director, Govt of India, Delhi</td>
+    <td class="tg-73oq">Mr. Ganga Kumar, Grameen Sneh Foundation, Director, Govt of India, Delhi</td>
     <td class="tg-73oq">Robotics in healthcare development - <br>a necessity for future perspective</td>
   </tr>
   <tr>
@@ -57,7 +57,7 @@ This inaugural workshop "Social robots and artificial agents for developing coun
   </tr>
   <tr>
     <td class="tg-mcqj">11.30 - 12.00</td>
-    <td class="tg-73oq">Mohammad Shidujaman, Board of Executive<br>Committee of Bangladesh Robotics Foundation</td>
+    <td class="tg-73oq">Mohammad Shidujaman, Board of Executive Committee of Bangladesh Robotics Foundation</td>
     <td class="tg-73oq">Emerging social challenges in Bangladesh and<br>how social robotics can play an innovative role</td>
   </tr>
   <tr>
@@ -71,6 +71,7 @@ This inaugural workshop "Social robots and artificial agents for developing coun
     <td class="tg-73oq"></td>
   </tr>
 </table>
+
 ### Call for Papers:
 We also encourage to submit previously published work if relevant to the workshop topic. Panels will discuss lessons learned as well as highlight what can be done in the near future. All accepted papers will be made available online on the workshop website and the authors will retain the copyright of their paper and to allow submitting the work as an improved full paper in other venues. We invite research work as short papers (4-page limit, plus additional pages for references) for oral and/or poster presentation. We also invite two-page abstracts/work in progress papers presenting specific solutions that address the challenges and opportunities for social robots to serve developing countries. The short papers would focus on ideally demonstrating a beneficial effect on populations in the developing world using social robots/agents to present the scientific to practical challenges that may be encountered when they are deployed. The two-page abstracts could present ideas that have not yet been applied in practice but can demonstrate real potential. The workshop provides a platform for developing these two-page abstracts into real projects and encourages collaborative discussion between academic, researchers and potential funders.
 
