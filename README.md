@@ -11,7 +11,7 @@ This inaugural workshop "Social robots and artificial agents for developing coun
  * 8.30am - 9.00am: Opening & Introduction, Dr Amol Deshmukh, University of Glasgow, UK.
  * 9.00am - 9.30am: Unnikrishnan Radhakrishnan, Amrita University, Kerala, India "Social robots with Rural populations in India"
  * 9.30am - 10.00am: Prof. Subir Kumar Saha, IIT Delhi, "Robotics2Rural: Innovative Teaching and Research Approaches"
- * 10.00am - 10.30am: Mr. Ganga Kumar, Grameen Sneh Foundation, Director, Govt of India, Delhi.
+ * 10.00am - 10.30am: Mr. Ganga Kumar, Grameen Sneh Foundation, Director, Govt of India, Delhi, "Robotics in healthcare development - a necessity for future perspective"
  * 10.30am - 11.00am: Coffee Break & Networking
  * 11.00am - 11.30am: Amit Kumar Pandey, Hanson Robotics, Hong Kong (Industry perspective)
  * 11.30am - 12.00pm: Mohammad Shidujaman, Board of Executive Committee of Bangladesh Robotics Foundation, "Emerging social challenges in Bangladesh & how social robotics can play an innovative role"
