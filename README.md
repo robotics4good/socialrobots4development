@@ -37,7 +37,7 @@ This inaugural workshop "Social robots and artificial agents for developing coun
     <td class="tg-73oq">Robotics2Rural: Innovative Teaching and Research<br>Approaches</td>
   </tr>
   <tr>
-    <td class="tg-mcqj"><td rowspan="0">10.00 - 10.30</td>
+    <td class="tg-mcqj">10.00 - 10.30</td>
     <td class="tg-73oq">Mr. Ganga Kumar, Grameen Sneh Foundation,<br>Director, Govt of India, Delhi</td>
     <td class="tg-73oq">Robotics in healthcare development - <br>a necessity for future perspective</td>
   </tr>
