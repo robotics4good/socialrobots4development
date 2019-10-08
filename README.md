@@ -34,7 +34,7 @@ This inaugural workshop "Social robots and artificial agents for developing coun
   <tr>
     <td class="tg-mcqj">8.45 - 9.15</td>
     <td class="tg-73oq">Unnikrishnan Radhakrishnan, Amrita University, Kerala, India</td>
-    <td class="tg-73oq">Social robots with Rural populations in India</td>
+    <td class="tg-73oq">Social robots with Rural populations in India, case-studies</td>
   </tr>
   <tr>
     <td class="tg-mcqj">9.15 - 10.00</td>
