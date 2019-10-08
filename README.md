@@ -8,17 +8,7 @@
 This inaugural workshop "Social robots and artificial agents for developing countries: Challenges and opportunities" will focus on the application of social robots and artificial agents to serve populations in developing countries. While social robots are making way into our lives these are primarily focused to serve populations in developed countries. There is a lack of human-robot interaction research in developing countries which is nearly half of the population on the planet. Social robots potentially can make a huge impact in the developing world where they are a distinct novelty and our understanding about how robots are perceived by these subjects is very limited. The focus of this workshop is on the following areas but not limited to: rural/urban development, education, health, gender issues, agriculture, environmental sustainability, social welfare, and sustainable development. We believe that these fields are those where social robots and artificial agents can have an impact on society in the developing world. This inaugural workshop is an initiative to bring researchers together to network, present and discuss the challenges and opportunities in developing social robotic applications that can serve people and communities in the developing world. 
 
 ### Workshop schedule: (Room R3 "Inspire", Le Meridien, Windsor Place, New Delhi, India.)
- * 8.30am - 8.45am: Opening & Introduction, Dr Amol Deshmukh, University of Glasgow, UK.
- * 8.45am - 9.15am: Unnikrishnan Radhakrishnan, Amrita University, Kerala, India "Social robots with Rural populations in India"
- * 9.15am - 10.00am: Prof. Subir Kumar Saha, IIT Delhi, "Robotics2Rural: Innovative Teaching and Research Approaches"
- * 10.00am - 10.30am: Mr. Ganga Kumar, Grameen Sneh Foundation, Director, Govt of India, Delhi, "Robotics in healthcare development - a necessity for future perspective"
- * 10.30am - 11.00am: Coffee Break & Networking
- * 11.00am - 11.30am: Dr Amit Kumar Pandey, Hanson Robotics, Hong Kong (Industry perspective)
- * 11.30am - 12.00pm: Mohammad Shidujaman, Board of Executive Committee of Bangladesh Robotics Foundation, "Emerging social challenges in Bangladesh & how social robotics can play an innovative role"
- * 12.00pm - 12.45pm: Panel discussion with all invited speakers, Open Q&A
- * 12.45pm - 1.00pm: Closing
- 
-<style type="text/css">
+ <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
 .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
@@ -53,8 +43,7 @@ This inaugural workshop "Social robots and artificial agents for developing coun
   </tr>
   <tr>
     <td class="tg-mcqj">10.30 - 11.00</td>
-    <td class="tg-73oq">Coffee Break &amp; Networking</td>
-    <td class="tg-73oq">Networking</td>
+    <td class="tg-73oq" colspan="2">Coffee Break &amp; Networking</td>
   </tr>
   <tr>
     <td class="tg-mcqj">11.00 - 11.30</td>
