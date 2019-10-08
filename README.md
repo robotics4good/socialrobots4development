@@ -7,7 +7,7 @@
 ### Introduction
 This inaugural workshop "Social robots and artificial agents for developing countries: Challenges and opportunities" will focus on the application of social robots and artificial agents to serve populations in developing countries. While social robots are making way into our lives these are primarily focused to serve populations in developed countries. There is a lack of human-robot interaction research in developing countries which is nearly half of the population on the planet. Social robots potentially can make a huge impact in the developing world where they are a distinct novelty and our understanding about how robots are perceived by these subjects is very limited. The focus of this workshop is on the following areas but not limited to: rural/urban development, education, health, gender issues, agriculture, environmental sustainability, social welfare, and sustainable development. We believe that these fields are those where social robots and artificial agents can have an impact on society in the developing world. This inaugural workshop is an initiative to bring researchers together to network, present and discuss the challenges and opportunities in developing social robotic applications that can serve people and communities in the developing world. 
 
-### Workshop schedule: (Room R3 "Inspire", Le Meridien, Windsor Place, New Delhi, India.)
+### Workshop Schedule: (Room R3 "Inspire", Le Meridien, Windsor Place, New Delhi, India.)
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
