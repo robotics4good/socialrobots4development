@@ -18,17 +18,65 @@ This inaugural workshop "Social robots and artificial agents for developing coun
  * 12.00pm - 12.45pm: Panel discussion with all invited speakers, Open Q&A
  * 12.45pm - 1.00pm: Closing
  
-| Time          | Speaker                                                                             | Talk                                                                                         |
-|---------------|-------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
-| 8.30 - 8.45   | Dr Amol Deshmukh, University of Glasgow, UK                                         | Opening & Introduction                                                                       |
-| 8.45 - 9.15   | Unnikrishnan Radhakrishnan, Amrita University, Kerala, India                        | Social robots with Rural populations in India                                                |
-| 9.15 - 10.00  | Prof. Subir Kumar Saha, IIT Delhi, India                                            | Robotics2Rural: Innovative Teaching and Research Approaches                                  |
-| 10.00 - 10.30 | Mr. Ganga Kumar, Grameen Sneh Foundation, Director, Govt of India, Delhi            | Robotics in healthcare development -  a necessity for future perspective                     |
-| 10.30 - 11.00 | Coffee Break & Networking                                                           | Networking                                                                                   |
-| 11.00 - 11.30 | Dr Amit Kumar Pandey, Hanson Robotics, Hong Kong                                    | Industry perspective                                                                         |
-| 11.30 - 12.00 | Mohammad Shidujaman, Board of Executive Committee of Bangladesh Robotics Foundation | Emerging social challenges in Bangladesh and how social robotics can play an innovative role |
-| 12.00 - 12.55 | All invited speakers                                                                | Panel discussion, Open Q&A                                                                   |
-| 12.55 - 13.00 | Closing                                                                             |                                                                                              |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-mcqj{font-weight:bold;border-color:#000000;text-align:left;vertical-align:top}
+.tg .tg-73oq{border-color:#000000;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-mcqj">Time</th>
+    <th class="tg-mcqj">Speaker</th>
+    <th class="tg-mcqj">Talk</th>
+  </tr>
+  <tr>
+    <td class="tg-mcqj">8.30 - 8.45</td>
+    <td class="tg-73oq">Dr Amol Deshmukh, University of Glasgow, UK</td>
+    <td class="tg-73oq">Opening &amp; Introduction</td>
+  </tr>
+  <tr>
+    <td class="tg-mcqj">8.45 - 9.15</td>
+    <td class="tg-73oq">Unnikrishnan Radhakrishnan, Amrita University,<br>Kerala, India</td>
+    <td class="tg-73oq">Social robots with Rural populations in India</td>
+  </tr>
+  <tr>
+    <td class="tg-mcqj">9.15 - 10.00</td>
+    <td class="tg-73oq">Prof. Subir Kumar Saha, IIT Delhi, India</td>
+    <td class="tg-73oq">Robotics2Rural: Innovative Teaching and Research<br>Approaches</td>
+  </tr>
+  <tr>
+    <td class="tg-mcqj">10.00 - 10.30</td>
+    <td class="tg-73oq">Mr. Ganga Kumar, Grameen Sneh Foundation,<br>Director, Govt of India, Delhi</td>
+    <td class="tg-73oq">Robotics in healthcare development - <br>a necessity for future perspective</td>
+  </tr>
+  <tr>
+    <td class="tg-mcqj">10.30 - 11.00</td>
+    <td class="tg-73oq">Coffee Break &amp; Networking</td>
+    <td class="tg-73oq">Networking</td>
+  </tr>
+  <tr>
+    <td class="tg-mcqj">11.00 - 11.30</td>
+    <td class="tg-73oq">Dr Amit Kumar Pandey, Hanson Robotics, Hong Kong</td>
+    <td class="tg-73oq">Industry perspective</td>
+  </tr>
+  <tr>
+    <td class="tg-mcqj">11.30 - 12.00</td>
+    <td class="tg-73oq">Mohammad Shidujaman, Board of Executive<br>Committee of Bangladesh Robotics Foundation</td>
+    <td class="tg-73oq">Emerging social challenges in Bangladesh and<br>how social robotics can play an innovative role</td>
+  </tr>
+  <tr>
+    <td class="tg-mcqj">12.00 - 12.55</td>
+    <td class="tg-73oq">All invited speakers</td>
+    <td class="tg-73oq">Panel discussion, Open Q&amp;A</td>
+  </tr>
+  <tr>
+    <td class="tg-mcqj">12.55 - 13.00</td>
+    <td class="tg-73oq">Closing</td>
+    <td class="tg-73oq"></td>
+  </tr>
+</table>
 
 ### Call for Papers:
 We also encourage to submit previously published work if relevant to the workshop topic. Panels will discuss lessons learned as well as highlight what can be done in the near future. All accepted papers will be made available online on the workshop website and the authors will retain the copyright of their paper and to allow submitting the work as an improved full paper in other venues. We invite research work as short papers (4-page limit, plus additional pages for references) for oral and/or poster presentation. We also invite two-page abstracts/work in progress papers presenting specific solutions that address the challenges and opportunities for social robots to serve developing countries. The short papers would focus on ideally demonstrating a beneficial effect on populations in the developing world using social robots/agents to present the scientific to practical challenges that may be encountered when they are deployed. The two-page abstracts could present ideas that have not yet been applied in practice but can demonstrate real potential. The workshop provides a platform for developing these two-page abstracts into real projects and encourages collaborative discussion between academic, researchers and potential funders.
