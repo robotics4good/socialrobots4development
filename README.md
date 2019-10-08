@@ -38,7 +38,7 @@ This inaugural workshop "Social robots and artificial agents for developing coun
   </tr>
   <tr>
     <td class="tg-mcqj">10.00 - 10.30</td>
-    <td class="tg-73oq">Mr. Ganga Kumar, Grameen Sneh Foundation,<br>Director, Govt of India, Delhi</td>
+    <td class="tg-73oq">Mr. Ganga Kumar, Grameen Sneh Foundation, Director, Govt of India, Delhi</td>
     <td class="tg-73oq">Robotics in healthcare development - <br>a necessity for future perspective</td>
   </tr>
   <tr>
@@ -52,7 +52,7 @@ This inaugural workshop "Social robots and artificial agents for developing coun
   </tr>
   <tr>
     <td class="tg-mcqj">11.30 - 12.00</td>
-    <td class="tg-73oq">Mohammad Shidujaman, Board of Executive<br>Committee of Bangladesh Robotics Foundation</td>
+    <td class="tg-73oq">Mohammad Shidujaman, Board of Executive Committee of Bangladesh Robotics Foundation</td>
     <td class="tg-73oq">Emerging social challenges in Bangladesh and<br>how social robotics can play an innovative role</td>
   </tr>
   <tr>
