@@ -36,11 +36,6 @@ This inaugural workshop "Social robots and artificial agents for developing coun
     <td class="tg-73oq">Prof. Subir Kumar Saha, IIT Delhi, India</td>
     <td class="tg-73oq">Robotics2Rural: Innovative Teaching and Research Approaches</td>
   </tr>
-   <tr>
-    <td class="tg-mcqj">10.00 - 10.30</td>
-    <td class="tg-73oq">Unnikrishnan Radhakrishnan, Amrita University, Kerala, India</td>
-    <td class="tg-73oq">Social robots with Rural populations in India, case-studies</td>
-  </tr>
   <tr>
     <td class="tg-mcqj">10.00 - 10.30</td>
     <td class="tg-73oq">Mr. Ganga Kumar, Grameen Sneh Foundation, Director, Govt of India, Delhi</td>
@@ -57,8 +52,8 @@ This inaugural workshop "Social robots and artificial agents for developing coun
   </tr>
   <tr>
     <td class="tg-mcqj">11.30 - 12.00</td>
-    <td class="tg-73oq">Mohammad Shidujaman, Board of Executive Committee of Bangladesh Robotics Foundation</td>
-    <td class="tg-73oq">Emerging social challenges in Bangladesh and how social robotics can play an innovative role</td>
+    <td class="tg-73oq">Unnikrishnan Radhakrishnan, Amrita University, Kerala, India</td>
+    <td class="tg-73oq">Social robots with Rural populations in India, case-studies</td>
   </tr>
   <tr>
     <td class="tg-mcqj">12.00 - 12.55</td>
