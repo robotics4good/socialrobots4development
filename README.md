@@ -27,19 +27,19 @@ This inaugural workshop "Social robots and artificial agents for developing coun
     <th class="tg-mcqj">Talk</th>
   </tr>
   <tr>
-    <td class="tg-mcqj">8.30 - 8.45</td>
+    <td class="tg-mcqj">9.00-9.15</td>
     <td class="tg-73oq">Dr Amol Deshmukh, University of Glasgow, UK</td>
     <td class="tg-73oq">Opening &amp; Introduction</td>
-  </tr>
-  <tr>
-    <td class="tg-mcqj">8.45 - 9.15</td>
-    <td class="tg-73oq">Unnikrishnan Radhakrishnan, Amrita University, Kerala, India</td>
-    <td class="tg-73oq">Social robots with Rural populations in India, case-studies</td>
   </tr>
   <tr>
     <td class="tg-mcqj">9.15 - 10.00</td>
     <td class="tg-73oq">Prof. Subir Kumar Saha, IIT Delhi, India</td>
     <td class="tg-73oq">Robotics2Rural: Innovative Teaching and Research Approaches</td>
+  </tr>
+   <tr>
+    <td class="tg-mcqj">10.00 - 10.30</td>
+    <td class="tg-73oq">Unnikrishnan Radhakrishnan, Amrita University, Kerala, India</td>
+    <td class="tg-73oq">Social robots with Rural populations in India, case-studies</td>
   </tr>
   <tr>
     <td class="tg-mcqj">10.00 - 10.30</td>
