@@ -1,4 +1,4 @@
-### This half-day workshop will be held in conjunction with IEEE [RO-MAN 2019](https://ro-man2019.org/) on 17th October 2019 (8.30am- 13.00pm), Room R3 "Inspire", Le Meridien, Windsor Place, New Delhi, India.
+### This half-day workshop will be held in conjunction with IEEE [RO-MAN 2019](https://ro-man2019.org/) on 17th October 2019 (9.00am- 13.00pm), Room R3 "Inspire", Le Meridien, Windsor Place, New Delhi, India.
 
 <p align="center">
   <img src="speakers/rural-robots.jpg" width="600" height="180" title="Handwashing Robot" align="middle">
