@@ -38,8 +38,8 @@ This inaugural workshop "Social robots and artificial agents for developing coun
   </tr>
   <tr>
     <td class="tg-mcqj">10.00 - 10.30</td>
-    <td class="tg-73oq">Mr. Ganga Kumar, Grameen Sneh Foundation, Director, Govt of India, Delhi</td>
-    <td class="tg-73oq">Robotics in healthcare development - a necessity for future perspective</td>
+    <td class="tg-73oq">Dr Amit Kumar Pandey, Hanson Robotics, Hong Kong</td>
+    <td class="tg-73oq">Industry perspective</td>
   </tr>
   <tr>
     <td class="tg-mcqj">10.30 - 11.00</td>
@@ -47,8 +47,8 @@ This inaugural workshop "Social robots and artificial agents for developing coun
   </tr>
   <tr>
     <td class="tg-mcqj">11.00 - 11.30</td>
-    <td class="tg-73oq">Dr Amit Kumar Pandey, Hanson Robotics, Hong Kong</td>
-    <td class="tg-73oq">Industry perspective</td>
+    <td class="tg-73oq">Mr. Ganga Kumar, Grameen Sneh Foundation, Director, Govt of India, Delhi</td>
+    <td class="tg-73oq">Robotics in healthcare development - a necessity for future perspective</td>
   </tr>
   <tr>
     <td class="tg-mcqj">11.30 - 12.00</td>
